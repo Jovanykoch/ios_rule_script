@@ -1,0 +1,24 @@
+# 14-jun-2026
+
+# Analytics
+DOMAIN,www.google-analytics.com
+DOMAIN,static.cloudflareinsights.com
+DOMAIN,mc.yandex.ru
+DOMAIN,s10.histats.com
+DOMAIN,app-measurement.com
+DOMAIN,widgets.amung.us
+DOMAIN,track.sitetag.us
+DOMAIN,hm.baidu.com
+
+# Google Ads
+DOMAIN,ogads-pa.clients6.google.com
+DOMAIN,googleads.g.doubleclick.net
+DOMAIN,stats.g.doubleclick.net
+
+# Ad Networks
+DOMAIN,a.magsrv.com
+DOMAIN,a.pemsrv.com
+DOMAIN,poweredby.jads.co
+
+# App Tracking
+DOMAIN,app-analytics-services.com
