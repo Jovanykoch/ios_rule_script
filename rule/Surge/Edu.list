@@ -9,6 +9,11 @@ DOMAIN-SUFFIX,spokane.edu
 DOMAIN-SUFFIX,liberty.edu
 DOMAIN-SUFFIX,sfcollege.edu
 
+# CTCLINK
+DOMAIN-SUFFIX,ctclink.us
+DOMAIN-KEYWORD,ctclink
+
+
 # CSUN SSO
 DOMAIN-SUFFIX,shibboleth.csun.edu
 
