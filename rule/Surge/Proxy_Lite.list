@@ -3,6 +3,7 @@
 # UPDATED: 2026-06-03
 # TYPE: Surge Ruleset
 
+DOMAIN-SUFFIX,unidays.com
 DOMAIN-SUFFIX,discord.co
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,airtable.com
