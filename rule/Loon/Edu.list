@@ -35,3 +35,8 @@ DOMAIN-SUFFIX,shibboleth.csun.edu
 DOMAIN-SUFFIX,duosecurity.com
 DOMAIN-SUFFIX,duofederal.com
 DOMAIN-SUFFIX,duo.com
+
+
+# CTCLINK
+DOMAIN-SUFFIX,ctclink.us
+DOMAIN-KEYWORD,ctclink
