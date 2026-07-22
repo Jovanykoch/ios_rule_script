@@ -52,6 +52,7 @@ DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,outlook.office.com
 DOMAIN-SUFFIX,outlook.office365.com
 DOMAIN-SUFFIX,substrate.office.com
+DOMAIN-SUFFIX,sharepoint.com
 
 # Microsoft API / account services
 DOMAIN-SUFFIX,graph.microsoft.com
@@ -72,6 +73,7 @@ DOMAIN-SUFFIX,blackboard.com
 DOMAIN-SUFFIX,turnitin.com
 DOMAIN-SUFFIX,coursera.org
 DOMAIN-SUFFIX,edx.org
+DOMAIN-SUFFIX,stujjc.sharepoint.com
 
 DOMAIN-KEYWORD,csun
 DOMAIN-KEYWORD,jjc
