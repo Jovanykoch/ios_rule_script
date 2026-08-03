@@ -10,10 +10,14 @@ DOMAIN-SUFFIX,liberty.edu
 DOMAIN-SUFFIX,sfcollege.edu
 DOMAIN-SUFFIX,ccc.edu
 DOMAIN-SUFFIX,asu.edu
+DOMAIN-SUFFIX,lanecc.edu
+DOMAIN-SUFFIX,maricopa.edu
+DOMAIN-SUFFIX,riosalado.edu
 
 # CTCLINK
 DOMAIN-SUFFIX,ctclink.us
 DOMAIN-KEYWORD,ctclink
+
 
 
 # CSUN SSO
@@ -23,6 +27,7 @@ DOMAIN-SUFFIX,shibboleth.csun.edu
 DOMAIN-SUFFIX,duosecurity.com
 DOMAIN-SUFFIX,duofederal.com
 DOMAIN-SUFFIX,duo.com
+DOMAIN-KEYWORD,duo
 
 # Microsoft login / Entra ID / Azure AD
 DOMAIN,login.live.com
@@ -67,6 +72,7 @@ DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,lync.com
 
 # Learning platforms
+DOMAIN-SUFFIX,cdn.riolearn.org
 DOMAIN-SUFFIX,instructure.com
 DOMAIN-SUFFIX,canvaslms.com
 DOMAIN-SUFFIX,blackboard.com
@@ -75,6 +81,14 @@ DOMAIN-SUFFIX,coursera.org
 DOMAIN-SUFFIX,edx.org
 DOMAIN-SUFFIX,stujjc.sharepoint.com
 
+DOMAIN-KEYWORD,riolearn
 DOMAIN-KEYWORD,csun
 DOMAIN-KEYWORD,jjc
 DOMAIN-KEYWORD,spokane
+DOMAIN-KEYWORD,maricopa
+DOMAIN-KEYWORD,lanecc
+DOMAIN-KEYWORD,canvas
+DOMAIN-KEYWORD,liberty
+DOMAIN-KEYWORD,sfcollege
+DOMAIN-KEYWORD,riosalado
+
