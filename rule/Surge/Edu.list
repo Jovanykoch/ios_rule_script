@@ -2,6 +2,89 @@
 # Surge Rule Set
 # It is recommended to bind to a fixed U.S. node, such as US-SFO-01 / US-LAX-01
 
+DOMAIN-KEYWORD,1drv
+DOMAIN-KEYWORD,microsoft
+DOMAIN-KEYWORD,studentoffers
+DOMAIN-SUFFIX,studentoffers.co
+DOMAIN-SUFFIX,studentbeans.com
+DOMAIN-SUFFIX,aadrm.com
+DOMAIN-SUFFIX,acompli.com
+DOMAIN-SUFFIX,acompli.net
+DOMAIN-SUFFIX,aka.ms
+DOMAIN-SUFFIX,akadns.net
+DOMAIN-SUFFIX,aspnetcdn.com
+DOMAIN-SUFFIX,assets-yammer.com
+DOMAIN-SUFFIX,azure.com
+DOMAIN-SUFFIX,azure.net
+DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,azureiotcentral.com
+DOMAIN-SUFFIX,azurerms.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.net
+DOMAIN-SUFFIX,bingapis.com
+DOMAIN-SUFFIX,cloudapp.net
+DOMAIN-SUFFIX,cloudappsecurity.com
+DOMAIN-SUFFIX,edgesuite.net
+DOMAIN-SUFFIX,gfx.ms
+DOMAIN-SUFFIX,hotmail.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,lync.com
+DOMAIN-SUFFIX,msappproxy.net
+DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,msauthimages.net
+DOMAIN-SUFFIX,msecnd.net
+DOMAIN-SUFFIX,msedge.net
+DOMAIN-SUFFIX,msft.net
+DOMAIN-SUFFIX,msftauth.net
+DOMAIN-SUFFIX,msftauthimages.net
+DOMAIN-SUFFIX,msftidentity.com
+DOMAIN-SUFFIX,msidentity.com
+DOMAIN-SUFFIX,msn.cn
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,msocdn.com
+DOMAIN-SUFFIX,msocsp.com
+DOMAIN-SUFFIX,mstea.ms
+DOMAIN-SUFFIX,o365weve.com
+DOMAIN-SUFFIX,oaspapps.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,office.net
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,officeppe.net
+DOMAIN-SUFFIX,omniroot.com
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,onenote.com
+DOMAIN-SUFFIX,onenote.net
+DOMAIN-SUFFIX,onestore.ms
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,outlookmobile.com
+DOMAIN-SUFFIX,phonefactor.net
+DOMAIN-SUFFIX,public-trust.com
+DOMAIN-SUFFIX,sfbassets.com
+DOMAIN-SUFFIX,sfx.ms
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,sharepointonline.com
+DOMAIN-SUFFIX,skype.com
+DOMAIN-SUFFIX,skypeassets.com
+DOMAIN-SUFFIX,skypeforbusiness.com
+DOMAIN-SUFFIX,staffhub.ms
+DOMAIN-SUFFIX,svc.ms
+DOMAIN-SUFFIX,sway-cdn.com
+DOMAIN-SUFFIX,sway-extensions.com
+DOMAIN-SUFFIX,sway.com
+DOMAIN-SUFFIX,trafficmanager.net
+DOMAIN-SUFFIX,uservoice.com
+DOMAIN-SUFFIX,virtualearth.net
+DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,windows-ppe.net
+DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,windowsazure.com
+DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN-SUFFIX,wunderlist.com
+DOMAIN-SUFFIX,yammer.com
+DOMAIN-SUFFIX,yammerusercontent.com
+
 # School domains
 DOMAIN-SUFFIX,csun.edu
 DOMAIN-SUFFIX,jjc.edu
@@ -18,8 +101,6 @@ DOMAIN-SUFFIX,riosalado.edu
 DOMAIN-SUFFIX,ctclink.us
 DOMAIN-KEYWORD,ctclink
 
-
-
 # CSUN SSO
 DOMAIN-SUFFIX,shibboleth.csun.edu
 
@@ -27,7 +108,7 @@ DOMAIN-SUFFIX,shibboleth.csun.edu
 DOMAIN-SUFFIX,duosecurity.com
 DOMAIN-SUFFIX,duofederal.com
 DOMAIN-SUFFIX,duo.com
-DOMAIN-KEYWORD,duo
+# DOMAIN-KEYWORD,duo
 
 # Microsoft login / Entra ID / Azure AD
 DOMAIN,login.live.com
@@ -91,4 +172,35 @@ DOMAIN-KEYWORD,canvas
 DOMAIN-KEYWORD,liberty
 DOMAIN-KEYWORD,sfcollege
 DOMAIN-KEYWORD,riosalado
+DOMAIN-KEYWORD,studentbeans
 
+# NVIDIA AI / API
+DOMAIN-SUFFIX,dsx-air.nvidia.com
+DOMAIN-SUFFIX,build.nvidia.com
+DOMAIN-SUFFIX,integrate.api.nvidia.com
+DOMAIN-SUFFIX,api.nvidia.com
+DOMAIN-SUFFIX,nvidia.com
+
+# Akamai
+DOMAIN,akamai.com
+DOMAIN-SUFFIX,akamai.com
+DOMAIN-SUFFIX,akamaihd.net
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,akamaiedge.net
+
+# Truecaller
+DOMAIN,truecaller.com
+DOMAIN-SUFFIX,truecaller.com
+DOMAIN-SUFFIX,truecaller.net
+DOMAIN-KEYWORD,truecaller
+
+# Talkatone
+DOMAIN,talkatone.com
+DOMAIN-SUFFIX,talkatone.com
+DOMAIN-SUFFIX,talkatone.net
+DOMAIN-KEYWORD,talkatone
+
+# Saily
+DOMAIN,saily.com
+DOMAIN-SUFFIX,saily.com
+DOMAIN-KEYWORD,saily
